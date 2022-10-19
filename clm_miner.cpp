@@ -170,6 +170,3 @@ int main(int argc, char *argv[])
 
     return 0;
 }
-
-//https://stackoverflow.com/questions/3421817/splitting-int-from-a-string
-//https://stackoverflow.com/questions/5761254/creating-2-dimensional-vector-in-class-c
