@@ -1,2 +1,2 @@
 ﻿# maximal-frequent-itemset-mining
-dedededed
+﻿# maximal-frequent-itemset-mining
