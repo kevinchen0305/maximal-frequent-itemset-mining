@@ -6,7 +6,7 @@ with minsup = 1, maximal frequent itemset = ABCDE
 with minsup = 2, maximal frequent itemset = ABDE, BCDE  
 with minsup = 4, maximal frequent itemset = C, BDE
 # Introduction
-clm-miner is a graph-based maximal frequent itemset mining method, it represents database as a graph and store the graph to the completely linked matrix(clm) which cost O(Nx((NxN)+N)) space complexity, then clm-miner find all maximal frequent itemset from clm. The method cost a large space complexity in exchange of mining in constant time. 
+clm-miner is a graph-based maximal frequent itemset mining method, it represents database as a graph and store the graph to the completely linked matrix(clm) which cost O(Nx((NxN)+N)) space complexity, then clm-miner find all maximal frequent itemset from clm. The method cost a large space complexity in exchange of mining in constant time.  
 To reduce the space, there is another version call clm-miner-sparse. It only store the non-zero value to clm. Although it still cost N^3 space complexity, but greatly reduce the matrix space.  
 # Compiler
 ```
