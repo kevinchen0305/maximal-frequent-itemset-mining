@@ -11,7 +11,7 @@ Clm exists a lot of zero that is totally useless for our mining algorithm, to re
 # Dataset information
 connect    ----> 129 items, 67557 transactions  
 accident ----> 468 items, 340183 transactions
-# Compiler
+# Compile & Execute
 ```
 g++ .\clm_miner.cpp
 ```
