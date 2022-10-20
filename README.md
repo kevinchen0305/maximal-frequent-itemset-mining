@@ -6,3 +6,6 @@ with minsup = 1, maximal frequent itemset = ABCDE
 with minsup = 2, maximal frequent itemset = ABDE, BCDE  
 with minsup = 4, maximal frequent itemset = C, BDE
 # Compiler
+```
+g++ .\clm_miner.cpp
+```
