@@ -13,6 +13,7 @@ OR
 ```
 g++ .\clm_miner_sparse.cpp
 ```
+THEN
 ```
 .\a.exe <dataset> <dataset's total item count>
 ```
