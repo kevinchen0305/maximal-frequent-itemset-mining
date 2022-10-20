@@ -143,7 +143,7 @@ int main(int argc, char *argv[])
             stringstream ss ( line );
             while(getline(ss ,line, ',')){
                 c.transaction_to_graph(line);
-		}
+	    }
         }
     }
     
