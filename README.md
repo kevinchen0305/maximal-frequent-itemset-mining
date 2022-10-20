@@ -9,3 +9,6 @@ with minsup = 4, maximal frequent itemset = C, BDE
 ```
 g++ .\clm_miner.cpp
 ```
+```
+.\a.exe <dataset> <dataset's total item count>
+```
